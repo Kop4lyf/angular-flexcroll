@@ -1,4 +1,4 @@
-flexcrollAngularWrapper
+angular-flexcroll
 =======================
 
 This is a wrapper directive for flexcroll which is a popular custom scrollbar used in websites
